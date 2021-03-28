@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616957832 source:d:\workspace\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616958570 source:c:\workspace\minimat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minimat.h"
+
+1616958520 c:\workspace\minimat\minimat.h
+
+1616958536 source:c:\workspace\minimat\minimat.c
+	"minimat.h"
+
